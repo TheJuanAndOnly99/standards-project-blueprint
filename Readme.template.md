@@ -21,8 +21,8 @@ This repository follows the Community Specification process. See:
 
 There are several ways to contribute to {standard-name}:
 
-* **Join the next meeting.** Participants of the {standard-name} workstream meet {meeting cadence}. Find the next meeting on the [FINOS projects calendar](https://finos.org/calendar) and browse [past meeting minutes in GitHub](https://github.com/finos/{standard-slug}/labels/meeting).
-* **Join the mailing list.** Communications for the {standard-name} project are conducted through the {standard-slug}@lists.finos.org mailing list. Email [{standard-slug}@lists.finos.org](mailto:{standard-slug}@lists.finos.org) to join.
+* **Join the next meeting.** Participants of the {standard-name} workstream meet {meeting cadence}. Find the next meeting on the [FINOS projects calendar](https://finos.org/calendar) or in [LFX Self Serve](https://app.lfx.dev/) ([Meetings docs](https://app.lfx.dev/docs/meetings)), and browse [past meeting minutes in GitHub](https://github.com/finos/{standard-slug}/labels/meeting).
+* **Join the mailing list.** Communications for the {standard-name} project are conducted through the {standard-slug}@lists.finos.org mailing list. Join it in [LFX Self Serve](https://app.lfx.dev/) ([Mailing Lists docs](https://app.lfx.dev/docs/mailing-lists)), or email [help@finos.org](mailto:help@finos.org) for help.
 * **To become a voting participant**, please follow the enrollment process described at [PARTICIPANTS.md](PARTICIPANTS.md). To become a maintainer please see [GOVERNANCE.md](GOVERNANCE.md).
 
 ## License
